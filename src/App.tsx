@@ -4,7 +4,8 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Game discovery</h1>
+      <h1 className=''>Game discovery</h1>
+      <button className='btn btn-primary'>add</button>
     </>
   )
 }
